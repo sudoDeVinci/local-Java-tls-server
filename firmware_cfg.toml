@@ -1,0 +1,4 @@
+[firmware]
+path = "httpsmain.ino.bin"
+version = "0.0.0.2"
+sha256 = ""
